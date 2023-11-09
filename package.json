@@ -1,0 +1,20 @@
+{
+  "name": "ct313hm04-project-backend-nhatthien123",
+  "version": "1.0.0",
+  "description": "Học kỳ 1, Năm học 2023-2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/23-24Sem1-Courses/ct313hm04-project-backend-nhatthien123.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/23-24Sem1-Courses/ct313hm04-project-backend-nhatthien123/issues"
+  },
+  "homepage": "https://github.com/23-24Sem1-Courses/ct313hm04-project-backend-nhatthien123#readme"
+}
