@@ -14,4 +14,4 @@ Học kỳ 1, Năm học 2023-2024
 
 **Lớp học phần**:CT313H
 
-**Tên dự án**: e-commere website
+**Tên dự án**: Reading List
